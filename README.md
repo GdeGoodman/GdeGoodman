@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GdeGoodman
+- 👋 Hi, I’m Giuliano De Guzman
 - 👀 I’m interested in hardware generally, but I like coding when i have the time. 
 - 🌱 I’m currently learning CX-Programming (Automation) and Microprocessors
 - 💞️ I’m looking to collaborate on ...
